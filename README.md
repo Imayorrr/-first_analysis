@@ -11,6 +11,7 @@ These are the key findings I got from the analysis
       Product Category with the highest sales was Electronics
        Highest Sales Month was May 2023 cause the store made  ₦ 53,150 from sales. 
        Lowest Sales Month was January 2024 cause the store made  ₦ 1,530 in total sales. 
+       
 
 
 
