@@ -18,6 +18,12 @@ These are the key findings I got from the analysis
 Monthly sales performance
 <img width="520" height="288" alt="image" src="https://github.com/user-attachments/assets/4f657315-456e-4b8f-bc24-16e494e80c58" />
 
+Sales distribution by product category
+<img width="523" height="275" alt="image" src="https://github.com/user-attachments/assets/70cc50b2-9f1f-4442-8540-2d33f6676103" />
+
+
+
+
  
        
                                                                       
