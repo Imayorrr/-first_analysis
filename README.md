@@ -5,6 +5,6 @@
  Introduction
 This report analyzes the retail store’s monthly sales performance from January 2023 to January 2024, focusing on identifying trends, sales by product category and identifying trends.
 # data used
-<a href="https://github.com/Imayorrr/-first_analysis/blob/main/retail_sales_dataset%20OG.xlsx">Dataset Used</a>
+<a style="text-decoration: none;" href="https://github.com/Imayorrr/-first_analysis/blob/main/retail_sales_dataset%20OG.xlsx">Dataset Used</a>
 
 
