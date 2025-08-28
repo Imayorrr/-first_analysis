@@ -14,12 +14,14 @@ These are the key findings I got from the analysis
   # Trend
        Steady sales all through the year with notable increase in sales in may 2023 but it was mostly steady through the remainder of the year and there was a significant drop in sales in January 2024. 
 
-# These are the visuals for the analysis
-Monthly sales performance
-<img width="520" height="288" alt="image" src="https://github.com/user-attachments/assets/4f657315-456e-4b8f-bc24-16e494e80c58" />
+# Recommendations
+Based on my analysis, I believe the store can make more sales with incentives like buy two and get one free, because it’s will increase sales in products. This should go on for a certain period of time.
+ I think the store should also create a survey questions and ask the consumers what they love to get but is not on the stores product list, this will engage the consumers more and the store will get to know what they want and I am sure this will definitely increase sales. 
+  # Conclusion
+The store demonstrated strong overall growth in 2023, By strategically planning around seasonal trends, engaging the consumers and building a strong relationship with them, optimizing inventory for top-selling products, sales performance can be further enhanced in the coming year.
 
-Sales distribution by product category
-<img width="523" height="275" alt="image" src="https://github.com/user-attachments/assets/70cc50b2-9f1f-4442-8540-2d33f6676103" />
+
+
 
 
 
