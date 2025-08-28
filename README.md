@@ -13,6 +13,13 @@ These are the key findings I got from the analysis
        Lowest Sales Month was January 2024 because the store made  ₦ 1,530 in total sales. 
   # Trend
        Steady sales all through the year with notable increase in sales in may 2023 but it was mostly steady through the remainder of the year and there was a significant drop in sales in January 2024. 
+
+# These are the visuals for the analysis
+Monthly sales performance
+<img width="520" height="288" alt="image" src="https://github.com/user-attachments/assets/4f657315-456e-4b8f-bc24-16e494e80c58" />
+
+ 
+       
                                                                       
 
        
